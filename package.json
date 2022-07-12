@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "This is an exercise, which I will write a few practical tests for JavaScript functions using the Jest library. I will follow the AAA pattern to make my tests easier for other developers to read and understand. I will also try to use the TDD approach in practice.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrahaKahsay/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbrahaKahsay/testing/issues"
+  },
+  "homepage": "https://github.com/AbrahaKahsay/testing#readme"
+}
