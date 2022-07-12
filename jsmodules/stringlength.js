@@ -1,6 +1,4 @@
 // Task 1
 const stringLength = (string) => {
-    let charCount = string.split('').length;
-    return charCount;
+    return string.length;
 }
-console.log(stringLength('yes'));
